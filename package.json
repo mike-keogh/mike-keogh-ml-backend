@@ -1,0 +1,22 @@
+{
+  "name": "mike-keogh-ml-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-keogh/mike-keogh-ml-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike-keogh/mike-keogh-ml-backend/issues"
+  },
+  "homepage": "https://github.com/mike-keogh/mike-keogh-ml-backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
