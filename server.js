@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/data", (req, res) => {
-  res.send(data);
+  res.send(data.backendData);
 });
 
 const port = 3000;
